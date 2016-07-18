@@ -3,8 +3,8 @@
 ## Terminal Commands
 
 - checkout -b
-	.checks out a new branch
+	- checks out a new branch
 - add
-	.adds branch to commit list
+	- adds branch to commit list
 - commit
-	.commits to github
+	- commits to github
